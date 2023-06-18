@@ -1,4 +1,4 @@
-### Hi there 👋
+As a Front-end developer, I have about 2 years of experience. During this time, I collaborated with teams to develop and completing their projects. I'm Responsible in completing tasks on time. Motivated and enthusiast in learning and gaining more skills, especially in the field of software and interested in startup development.
 
 <!--
 **sinamadadii/sinamadadii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
