@@ -1,13 +1,13 @@
-<h2>👨‍💻 About Me:</h2>
-As a Front-end developer, I have about 2 years of experience. During this time, I collaborated with teams to develop and completing their projects. I'm motivated and enthusiast in learning and gaining more skills, especially in the field of software and interested in startup development.
-
-<h2>🌐 Socials:</h2>
+![Blue and White Modern Tech Web Developer Twitter Header (1)](https://github.com/sinamadadii/sinamadadii/assets/118539863/8ebf0115-175a-4115-89ac-e1a0c4136018)
 <div align=center>
 <a href='https://www.instagram.com/sinamadadii/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
 <a href='https://www.linkedin.com/in/sina-madadi-9168791aa'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 <a href='mailto:sinamadadi.work@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
 </a>
 </div>
+
+<h2>👨‍💻 About Me:</h2>
+As a Front-end developer, I have about 2 years of experience. During this time, I collaborated with teams to develop and completing their projects. I'm motivated and enthusiast in learning and gaining more skills, especially in the field of software and interested in startup development.
 
 <h2>💻 Tech Stack:</h2>
 <div align=center>
