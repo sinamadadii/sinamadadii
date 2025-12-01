@@ -7,7 +7,7 @@
 </div>
 
 <h2>👨‍💻 About Me:</h2>
-As a Front-end developer, I have about 2 years of experience. During this time, I collaborated with teams to develop and completing their projects. I'm motivated and enthusiast in learning and gaining more skills, especially in the field of software and interested in startup development.
+4+ years of experience in JavaScript and React, specializing in building intuitive, scalable, and high-performance web applications for industries like online food ordering, tourism, and real-time communication. Proven success in Agile methodologies, leading cross-functional teams (10-30 members), optimizing workflows, and enhancing product usability. Re-architected key projects, resulting in a 15% reduction in bug rates, improved collaboration, and faster project delivery.
 
 <h2>💻 Tech Stack:</h2>
 <div align=center>
